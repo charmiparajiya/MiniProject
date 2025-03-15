@@ -1,4 +1,4 @@
-Detailed explanation on how I have creted this mini project and also how to run it 
+Detailed explanation on how I have created this mini project and also how to run it 
 
 Basically Project is divided into 3 parts :
 =======================================================================================================================
